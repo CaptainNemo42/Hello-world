@@ -1,2 +1,2 @@
 # Hello-world
-Programa do Mini curso de Git e Github
+Programa do Mini curso de Git e Github de hoje 
